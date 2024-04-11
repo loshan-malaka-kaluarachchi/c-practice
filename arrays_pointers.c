@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+
 int A[] = {9,8,7,6,5,4};
 int *PTR_A;
 int COUNT = 0;
