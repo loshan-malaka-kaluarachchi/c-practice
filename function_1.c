@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int VAL;
 int NUM = 7;
 VAL = NUM%2;
