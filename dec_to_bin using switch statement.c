@@ -1,3 +1,4 @@
+#include <stdio.h>
 int _newbin()
 {
     int input=10;
