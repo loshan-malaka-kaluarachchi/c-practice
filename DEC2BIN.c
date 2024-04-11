@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 int GET_BIT(int NUM){
     int BIT = NUM%2;
     return BIT;
