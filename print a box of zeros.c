@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-                /** printing (row by column) box of zeros **/
 
+/** printing (row by column) box of zeros **/
 int main()
 {
 int row,col;
