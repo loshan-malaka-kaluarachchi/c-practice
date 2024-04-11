@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int GET_BIT(int NUM){
     int BIT = NUM%2;
