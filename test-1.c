@@ -1,3 +1,4 @@
+#include <stdio.h>
 int n1,x,count;
 
 printf("Enter value: ");
